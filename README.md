@@ -36,9 +36,7 @@ O objetivo foi praticar estruturação semântica, estilização e organização
 
 ## 🌎 Deploy
 
-Ainda não publicado no GitHub Pages.
-
-Em breve 🚀
+https://luizpaulotrein.github.io/blog-preview-card-main/
 
 ---
 
