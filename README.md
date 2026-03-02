@@ -30,7 +30,7 @@ O objetivo foi praticar estruturação semântica, estilização e organização
 
 ## 📷 Preview do projeto
 
-![Preview do projeto](./design/preview.jpg)
+![Preview do projeto](./assets/design/preview.jpg/preview.jpg)
 
 ---
 
