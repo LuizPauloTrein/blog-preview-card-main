@@ -12,19 +12,19 @@ O objetivo foi praticar estruturação semântica, estilização e organização
 
 ## 🚀 Tecnologias utilizadas
 
-* HTML5
-* CSS3
-* Flexbox
+- HTML5
+- CSS3
+- Flexbox
 
 ---
 
 ## 🎯 O que eu pratiquei
 
-* Estruturação semântica
-* Organização de arquivos CSS
-* Uso de variáveis CSS
-* Alinhamento com Flexbox
-* Responsividade básica
+- Estruturação semântica
+- Organização de arquivos CSS
+- Uso de variáveis CSS
+- Alinhamento com Flexbox
+- Responsividade básica
 
 ---
 
@@ -44,8 +44,8 @@ https://luizpaulotrein.github.io/FrontendMentor-blog-preview-card/
 
 Desenvolvido por **Luiz Trein**
 
-* GitHub: https://github.com/LuizPauloTrein
-* LinkedIn: https://www.linkedin.com/in/luiz-trein-60065b271/
+- GitHub: https://github.com/LuizPauloTrein
+- LinkedIn: https://www.linkedin.com/in/luiz-trein-60065b271/
 
 ---
 
